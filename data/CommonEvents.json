@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":102,"indent":0,"parameters":[["男","女"],1,0,1,1]},{"code":402,"indent":0,"parameters":[0,"男"]},{"code":322,"indent":1,"parameters":[1,"student1",0,"student1",0,"student1"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"女"]},{"code":322,"indent":1,"parameters":[2,"student2",0,"student2",0,"student2"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":123,"indent":0,"parameters":["A",0]},{"code":0,"indent":0,"parameters":[]}],"name":"男女","switchId":1,"trigger":1},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
